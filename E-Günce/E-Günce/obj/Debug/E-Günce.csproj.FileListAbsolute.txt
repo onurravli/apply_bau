@@ -1,0 +1,10 @@
+C:\Users\Onur\Desktop\E-Günce\E-Günce\bin\Debug\E-Günce.exe.config
+C:\Users\Onur\Desktop\E-Günce\E-Günce\bin\Debug\E-Günce.exe
+C:\Users\Onur\Desktop\E-Günce\E-Günce\bin\Debug\E-Günce.pdb
+C:\Users\Onur\Desktop\E-Günce\E-Günce\obj\Debug\E-Günce.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\E-Günce\E-Günce\obj\Debug\E_Günce.egunce.resources
+C:\Users\Onur\Desktop\E-Günce\E-Günce\obj\Debug\E-Günce.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\E-Günce\E-Günce\obj\Debug\E-Günce.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\E-Günce\E-Günce\obj\Debug\E-Günce.exe
+C:\Users\Onur\Desktop\E-Günce\E-Günce\obj\Debug\E-Günce.pdb
+C:\Users\Onur\Desktop\E-Günce\E-Günce\obj\Debug\E_Gunce.Properties.Resources.resources
